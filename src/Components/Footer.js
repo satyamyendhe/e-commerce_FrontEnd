@@ -8,7 +8,7 @@ export default function Footer() {
                 <div className="copyright py-5  d-flex justify-content-center color-white">
                     <i className="fa fa-copyright text-white fs-5 ">
                         <span className="fs-4 px-4">
-                            2020 All Rights Reserved. Design by Satyam Yendhe
+                            2023 All Rights Reserved. Design by Satyam Yendhe
                         </span>
                     </i>
                 </div>
